@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clipboard Demo</string>
+
+    <string name="enter_text">Enter text here</string>
+    <string name="copy_text">Copy to Clipboard</string>
+    <string name="show_copied_text">Show Clipboard Data</string>
+    <string name="paste_clipboard_data">Paste your clipboard data directly here</string>
+</resources>
